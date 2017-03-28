@@ -1,0 +1,107 @@
+.numerales {
+    flex-flow: row;
+}
+
+.bLight-blue {
+    background: blue;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.h2 {
+    color: aqua;
+}
+
+body {
+    background-image: url("../img/Kitchen.jpg");
+    background-color: #cccccc;
+}
+
+.container {
+  width: 85%;
+  position: absolute;
+  text-align: center;
+}
+
+.L {
+  height: 50px;
+}
+.C {
+  height: 100px;
+}
+
+.CL {
+  height: 150px;
+}
+
+.CC {
+  height: 200px;
+}
+
+.CCL {
+  height: 250px;
+}
+
+.CCC {
+  height: 300px;
+}
+
+.CCCL {
+  height: 350px;
+}
+
+.CD {
+  height: 400px;
+}
+
+.CDL {
+  height: 450px;
+}
+
+.D {
+  height: 500px;
+}
+
+.DC {
+  height: 600px;
+}
+
+.DCL {
+  height: 650px;
+}
+
+.DCC {
+  height: 700px;
+}
+
+.DCCL {
+  height: 750px;
+}
+
+.DCCC {
+  height: 800px;
+}
+
+.DCCCL {
+  height: 850px;
+}
+
+.CM {
+  height: 900px;
+}
+
+.CML {
+  height: 950px;
+}
+
+.M {
+  height: 1000px;
+}
+
+.img-resp {
+   width: 100%; 
+}
+
+.border-black {
+  border: solid black 1px;
+}

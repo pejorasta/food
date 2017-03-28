@@ -1,3 +1,7 @@
+.fit {
+    padding: 5px;
+}
+
 .numerales {
     flex-flow: row;
 }
@@ -102,6 +106,14 @@ body {
    width: 100%; 
 }
 
-.border-black {
-  border: solid black 1px;
+border-father {
+  border: solid red 1px;
+}
+
+border-son {
+  border: solid green 1px;
+}
+
+.eight {
+    height: 12.5%;
 }

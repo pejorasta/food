@@ -1,0 +1,3 @@
+[0328/171529.932:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Cansuck\reports: Acceso denegado. (0x5)
+[0328/171529.945:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0328/171529.949:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Cansuck\reports: Acceso denegado. (0x5)
